@@ -8,4 +8,15 @@ body {
     margin: auto;
     background-color: white;
     border: 1px solid black;
+    padding: 20px;
+}
+
+/* Favorite color styling */
+h1, h2 {
+    color: blue;
+}
+
+.favorite-color {
+    color: blue;
+    font-weight: bold;
 }
